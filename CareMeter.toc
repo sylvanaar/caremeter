@@ -1,4 +1,7 @@
 ## Interface: 40000
 ## Title: Care Meter(tm)
 
+## Author: Sylvanaar (Sylvaan - Zul'Jin/US-Horde)
+## Version: @project-version@ 
+
 CareMeter.lua
