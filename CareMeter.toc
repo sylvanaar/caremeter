@@ -1,4 +1,4 @@
-## Interface: 40000
+## Interface: 40200
 ## Title: Care Meter(tm)
 
 ## Author: Sylvanaar (Sylvaan - Zul'Jin/US-Horde)
